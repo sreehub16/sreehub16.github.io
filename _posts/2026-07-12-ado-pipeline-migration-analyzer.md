@@ -1,6 +1,6 @@
 ---
 title: Building a Migration Readiness Analyzer for Azure DevOps to GitHub Actions
-date: 2026-07-13 10:00:00 -0400
+date: 2026-07-12 20:00:00 -0400
 categories: [Azure DevOps, GitHub Actions]
 tags: [azure-devops, github-actions, migrations, python, powershell, github]
 description: >-
